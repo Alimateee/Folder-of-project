@@ -4,4 +4,5 @@
 int main()
 {
     printf("Hello World");
+    int *p,x = 5,y;
 }
